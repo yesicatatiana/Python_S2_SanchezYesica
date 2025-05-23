@@ -34,7 +34,7 @@ while(booleanito):
             print("-"*linea)
             print("Registro de artista".upper().center(linea))
             print("-"*linea)
-            nomArt = input("Digite el nombre del artista: ")
+            nomArt = input("Digite el nombre del artista:   ")
             paisArt = input("Digite el país del artista: ")
             actAniosArt = input("Años activo: ")
             anioPrimerDiscoArt = int(input("Año de lanzamiento del primer disco: "))
